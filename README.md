@@ -1,2 +1,3 @@
 # sampleapp
-Sample app Vinay ,ajay ,rajesh
+
+sampu , sangu  ,chandu , vinnu , ajju
